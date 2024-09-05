@@ -1,0 +1,33 @@
+.contact-form {
+    margin-top: 30px;
+}
+
+.contact-form h2 {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.container.contact-form {
+    flex: 1;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn {
+    background-color: rgba(32, 124, 4, 0.5);
+    color: rgb(0, 0, 0);
+    border: none;
+}
+
+.btn:hover {
+    background-color: rgba(32, 124, 4, 0.5);
+    color: rgb(0, 0, 0);
+}

@@ -1,0 +1,36 @@
+aside {
+    border-right: 1px solid #ddd;
+    padding-right: 20px;
+}
+
+
+form {
+    margin-bottom: 20px;
+}
+
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+
+
+.card-body {
+    padding: 1.25rem;
+}
+
+
+.col-md-4 {
+    margin-bottom: 20px;
+}
+
+.btn {
+    background-color: rgba(32, 124, 4, 0.5);
+    color: rgb(0, 0, 0);
+    border: none;
+}
+
+.btn:hover {
+    background-color: rgba(32, 124, 4, 0.5);
+    color: rgb(0, 0, 0);
+}
